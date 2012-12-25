@@ -3,6 +3,8 @@
 
 #include "ezMath.h"
 
+// This file is based on the Irrlicht engine by Nikolaus Gebhardt
+
 template <class T>
 class vector3d
 {

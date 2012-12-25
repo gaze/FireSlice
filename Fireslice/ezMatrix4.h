@@ -1,6 +1,8 @@
 #ifndef EZMATRIX4_H
 #define EZMATRIX4_H
 
+// This file is based on the Irrlicht engine by Nikolaus Gebhardt
+
 #define DEBUG
 
 #ifdef DEBUG
